@@ -1,0 +1,14 @@
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\bin\Debug\GamebigData.exe.config
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\bin\Debug\GamebigData.exe
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\bin\Debug\GamebigData.pdb
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.csproj.AssemblyReference.cache
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.csproj.SuggestedBindingRedirects.cache
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.Properties.Resources.resources
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.csproj.GenerateResource.cache
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.csproj.CoreCompileInputs.cache
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.exe
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.pdb
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.Form1.resources
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.csproj.CopyComplete
+C:\Users\star store\Desktop\bigdata\GamebigData\GamebigData\obj\Debug\GamebigData.menu.resources
